@@ -1,7 +1,7 @@
 # Learning Plan for AI
 - ML, DL, AI etc.
 
-# Python
+1. Python
 - venv, poetry, fastapi, jupyter, git, type hints.
 - Clean Code and Testing
 - Async and APIs
@@ -11,7 +11,7 @@
 - Functions and Modules
 - Syntax and Data Types
 
-# ML Foundations
+2. ML Foundations
 - Data, Features, Model, Evaluate, Predict.
 - Supervised vs. Unsupervised
 - Regression and Classification
@@ -19,7 +19,7 @@
 - Overfitting and Regularisation.
 - Metrics (Precision, recall, F1)
 
-# Deep Learning
+3. Deep Learning
 - CNN, RNN/LSTM, Transformer, Attention
 - Backprop
 - Loss Functions
@@ -27,14 +27,14 @@
 - GPU/CUDA
 - PyTorch
 
-# LLM Basics
+4. LLM Basics
 - Text, Tokenizer, Embeddings, Transformer, Output Tokens.
 - Context Window
 - Temperature and Top-P
 - Open vs Closed Models
 - Hallucination.
 
-# Prompt Engineering
+5. Prompt Engineering
 - Techniques
     - Zero-shot
     - few-shot
@@ -47,7 +47,7 @@
     - versioning prompts
     - guardrails
     - prompt catching
-# RAG
+6. RAG
 - Documents, Chunk, Embed, Vector Store, Answer
 - Rerieve, LLM, Answer
 - Chunking Strategy
@@ -56,7 +56,7 @@
 - Citations
 - Evaluation (faithfulness, relevance)
 
-# Vector Databases
+7. Vector Databases
 - Options
     - pgvector
     - Pinecone
@@ -71,7 +71,7 @@
     - Metadata filtering
     - Sharding
 
-# MCP
+8. MCP
 - Host/Client , MCP Server, Tools (Resources, Prompts)
 - Standardised tool interface
 - stdio vs HTTP Transport
@@ -79,7 +79,7 @@
 - Auth and scoping
 - Reusable connectors
 
-# AI Agents
+9. AI Agents
 - Plan -> Act -> Observe -> Reflect - repeat
 - Patterns
     - Single vs. Multi agent
@@ -88,7 +88,7 @@
     - Human in Loop
     - Orchestration Frameworks
 
-# Fine Tuning
+10. Fine Tuning
 - when not to fine tune
 - dataset curation
 - SFT (supervised fine tuning)
@@ -97,7 +97,7 @@
 - Quantisation
 - Evaluation vs Base Model.
 
-# AI Deployment
+11. AI Deployment
 - Code -> Build -> Eval -> Deploy
 - Runtime
     - Docker
@@ -110,7 +110,7 @@
     - cost and latency
     - observability and tracing
 
-# AI Security
+12. AI Security
 - Prompt Injection
 - Jailbreaks
 - data leakage and PII
@@ -120,7 +120,7 @@
 - red-teaming
 - EU AI Act and Governance
 
-# References
+13. References
 - read papers
 - build in public
 - contribute OSS
