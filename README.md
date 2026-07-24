@@ -1,3 +1,6 @@
+# Learning Plan for AI
+- ML, DL, AI etc.
+
 # Python
 - venv, poetry, fastapi, jupyter, git, type hints.
 - Clean Code and Testing
