@@ -32,3 +32,5 @@ node -v
 pip install uv
 ```
 - mcp server manifest
+
+
