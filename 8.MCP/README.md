@@ -33,4 +33,11 @@ pip install uv
 ```
 - mcp server manifest
 
+---
+# Model Context Protocol (MCP)
+- [MCP - Anthropic Guide](https://modelcontextprotocol.io/introduction)
+- [Building AI Apps using MCP](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
+- [MCP Course - Hugging Face](https://huggingface.co/learn/mcp-course/unit0/introduction)
+- [Awesome MCP Servers - Github](https://github.com/punkpeye/awesome-mcp-servers)
 
+---
